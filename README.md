@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Pharmacy App**
+- 🔭 I’m currently working on **Blog App With own Backend in Spring and frontend in Android**
 
 - 🌱 I’m currently learning **Jetpack compose**
 
