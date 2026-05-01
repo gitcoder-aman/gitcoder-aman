@@ -1,217 +1,219 @@
-<!DOCTYPE html>
+# Hi 👋, I'm Aman Kumar
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Aman Kumar | Developer Portfolio</title>
+### Android Developer | Java Backend Developer (Spring Boot)
 
-```
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 40px;
-        line-height: 1.6;
-        background-color: #f4f6f8;
-        color: #333;
-    }
+🚀 Passionate about building scalable mobile and backend applications.
+I specialize in **Android development with Kotlin & Jetpack Compose** and **Backend development using Spring Boot**.
+I enjoy solving real-world problems and continuously learning new technologies.
 
-    h1, h2, h3 {
-        color: #0a66c2;
-    }
+---
 
-    .section {
-        background: white;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-radius: 8px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
+## 👨‍💻 About Me
 
-    ul {
-        margin-left: 20px;
-    }
+* 🔭 Currently working on **Hotel Reservation Backend System using Spring Boot**
+* 🌱 Currently learning **Spring Boot, React, and System Design**
+* 💬 Ask me about:
 
-    .title {
-        text-align: center;
-    }
+  * Android Development (Jetpack Compose, XML)
+  * Java & Spring Boot
+  * REST APIs
+  * Backend Architecture
+* ⚡ Fun fact: I enjoy coding while listening to music 🎧
 
-    .contact {
-        font-weight: bold;
-    }
-</style>
-```
+---
 
-</head>
+## 🛠️ Tech Stack
 
-<body>
+### Programming Languages
 
-<div class="title">
-    <h1>Hi 👋, I'm Aman Kumar</h1>
-    <h3>Android Developer | Java Backend Developer (Spring Boot)</h3>
-</div>
+* Java
+* Kotlin
+* JavaScript
+* C / C++
 
-<div class="section">
-    <h2>About Me</h2>
-    <p>
-        Passionate about building scalable mobile and backend applications.
-        I specialize in Android development using Kotlin & Jetpack Compose
-        and Backend development using Spring Boot.
-    </p>
+### Backend Development
 
-```
-<ul>
-    <li>Currently working on <b>Hotel Reservation Backend System</b></li>
-    <li>Learning Spring Boot, React, and System Design</li>
-    <li>Interested in Backend Architecture and Microservices</li>
-    <li>Enjoy coding while listening to music 🎧</li>
-</ul>
-```
+* Spring Boot
+* REST API
+* Spring Security
+* Hibernate / JPA
 
-</div>
+### Mobile Development
 
-<div class="section">
-    <h2>Tech Stack</h2>
+* Android
+* Jetpack Compose
+* XML UI
+* MVVM Architecture
 
-```
-<h3>Programming Languages</h3>
-<ul>
-    <li>Java</li>
-    <li>Kotlin</li>
-    <li>JavaScript</li>
-    <li>C / C++</li>
-</ul>
+### Database
 
-<h3>Backend</h3>
-<ul>
-    <li>Spring Boot</li>
-    <li>Spring Security</li>
-    <li>REST APIs</li>
-    <li>Hibernate / JPA</li>
-</ul>
+* MySQL
+* Oracle
+* PostgreSQL
 
-<h3>Mobile Development</h3>
-<ul>
-    <li>Android</li>
-    <li>Jetpack Compose</li>
-    <li>MVVM Architecture</li>
-</ul>
+### Tools & Technologies
 
-<h3>Database</h3>
-<ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>Oracle</li>
-</ul>
-```
+* Git & GitHub
+* Postman
+* Firebase
+* Docker (Learning)
+* React (Learning)
+* Kubernetes (Learning)
 
-</div>
+---
 
-<div class="section">
-    <h2>Featured Projects</h2>
+## 📌 Current Focus
 
-```
-<h3>1. Hotel Reservation Backend System</h3>
+* Building scalable backend systems using Spring Boot
+* Learning System Design and Microservices Architecture
+* Improving Data Structures & Algorithms
+* Developing real-world production-level projects
 
-<p>A scalable backend system built using Spring Boot.</p>
+---
 
-<ul>
-    <li>User authentication</li>
-    <li>Room booking system</li>
-    <li>Secure login system</li>
-    <li>REST API architecture</li>
-    <li>Database integration</li>
-</ul>
+# 🚀 Featured Projects
 
-<h4>Tech Stack</h4>
+## 1️⃣ Hotel Reservation Backend System
 
-<ul>
-    <li>Spring Boot</li>
-    <li>MySQL</li>
-    <li>Spring Security</li>
-    <li>JPA / Hibernate</li>
-</ul>
+A scalable backend system built using Spring Boot for managing hotel bookings and user authentication.
 
-<hr>
+### Features
 
-<h3>2. TalkMateAI — AI Code Generation Platform</h3>
+* User authentication and authorization
+* Room booking system
+* REST API architecture
+* Database integration
+* Secure login system
+* Booking management
 
-<p>
-    TalkMateAI is an AI-powered platform that allows users to generate,
-    edit, and execute code using natural language prompts.
-    The system simulates modern AI development tools similar to
-    Cursor, Replit, and ChatGPT.
-</p>
+### Tech Stack
 
-<h4>Key Features</h4>
+* Spring Boot
+* MySQL
+* Spring Security
+* JPA / Hibernate
+* REST APIs
 
-<ul>
-    <li>AI code generation</li>
-    <li>Chat-based coding assistant</li>
-    <li>Project and file management</li>
-    <li>Code execution in containers</li>
-    <li>Real-time logs streaming</li>
-    <li>User authentication</li>
-    <li>Microservices architecture</li>
-</ul>
+---
 
-<h4>Technology Stack</h4>
+## 2️⃣ TalkMateAI — AI Code Generation Platform
 
-<ul>
-    <li>Spring Boot</li>
-    <li>Spring Cloud Gateway</li>
-    <li>Microservices Architecture</li>
-    <li>PostgreSQL</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>OpenAI API</li>
-    <li>React</li>
-</ul>
-```
+TalkMateAI is an AI-powered platform that allows users to generate, edit, and execute code using natural language prompts.
+The system simulates modern AI development tools similar to platforms like **Cursor, Replit, and ChatGPT**.
 
-</div>
+This project demonstrates **scalable backend architecture, microservices design, and AI integration** using modern technologies.
 
-<div class="section">
-    <h2>Current Focus</h2>
+---
 
-```
-<ul>
-    <li>Building scalable backend systems</li>
-    <li>Learning Microservices Architecture</li>
-    <li>Improving Data Structures & Algorithms</li>
-    <li>Developing production-level projects</li>
-</ul>
-```
+## Key Features
 
-</div>
+* AI Code Generation using natural language prompts
+* Chat-based coding assistant
+* Project and file management system
+* Code execution in isolated containers
+* Real-time logs streaming
+* User authentication and authorization
+* Multi-user project support
+* Token usage tracking
+* Rate limiting and monitoring
 
-<div class="section">
-    <h2>Contact</h2>
+---
 
-```
-<p class="contact">
-    Email: amankumar93578@gmail.com
-</p>
+## System Architecture
 
-<p class="contact">
-    LinkedIn:
-    https://linkedin.com/in/aman-kumar-4aaa631b5
-</p>
-```
+The system follows a **microservices architecture**.
 
-</div>
+### Core Services
 
-<div class="section">
-    <h2>Career Goal</h2>
+* API Gateway — request routing and authentication
+* Intelligence Service — communicates with AI models
+* Workspace Service — manages projects and files
+* Chat Service — handles conversations and history
+* Execution Service — runs generated code
+* Storage Service — stores files and assets
+* Vector Database — supports semantic search (RAG)
 
-```
-<p>
-    To become a skilled Software Engineer specializing in Backend
-    and Android Development, contributing to scalable and
-    high-quality software systems.
-</p>
-```
+---
 
-</div>
+## Technology Stack
 
-</body>
-</html>
+### Backend
+
+* Spring Boot
+* Spring Cloud Gateway
+* Microservices Architecture
+* REST APIs
+* JWT Authentication
+
+### Frontend
+
+* React
+
+### Database
+
+* PostgreSQL
+
+### AI Integration
+
+* OpenAI API
+* Prompt Engineering
+* Vector Database (Qdrant)
+
+### Infrastructure
+
+* Docker
+* Kubernetes
+* Object Storage (MinIO)
+
+### Monitoring
+
+* Logging
+* Tracing (Zipkin)
+
+---
+
+## Architecture Highlights
+
+* Scalable microservices system
+* Containerized code execution
+* API Gateway pattern
+* AI integration using LLM
+* Secure authentication system
+* Production-ready backend design
+
+---
+
+## 📄 Project Documentation
+
+Detailed system design and architecture documentation is available for this project.
+
+Includes:
+
+* System architecture
+* Microservices design
+* Technology stack
+* Development phases
+* Core modules
+* Feature implementation
+
+---
+
+## 📫 Contact Me
+
+Email:
+**[amankumar93578@gmail.com](mailto:amankumar93578@gmail.com)**
+
+LinkedIn:
+**https://linkedin.com/in/aman-kumar-4aaa631b5**
+
+---
+
+## 📊 GitHub Stats
+
+(Add your GitHub stats widgets here)
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled **Software Engineer** specializing in **Backend and Android Development**, contributing to high-quality, scalable software systems.
