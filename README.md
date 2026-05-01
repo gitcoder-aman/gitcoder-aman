@@ -11,6 +11,7 @@ I enjoy solving real-world problems and continuously learning new technologies.
 ## 👨‍💻 About Me
 
 * 🔭 Currently working on **Hotel Reservation Backend System using Spring Boot**
+* 🤖 Building **TalkMateAI — AI Code Generation Platform**
 * 🌱 Currently learning **Spring Boot, React, and System Design**
 * 💬 Ask me about:
 
@@ -22,52 +23,52 @@ I enjoy solving real-world problems and continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Languages and Tools
 
-### Programming Languages
+<p align="left">
 
-* Java
-* Kotlin
-* JavaScript
-* C / C++
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 
-### Backend Development
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
 
-* Spring Boot
-* REST API
-* Spring Security
-* Hibernate / JPA
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
 
-### Mobile Development
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
 
-* Android
-* Jetpack Compose
-* XML UI
-* MVVM Architecture
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 
-### Database
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
 
-* MySQL
-* Oracle
-* PostgreSQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
 
-### Tools & Technologies
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 
-* Git & GitHub
-* Postman
-* Firebase
-* Docker (Learning)
-* React (Learning)
-* Kubernetes (Learning)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+
+</p>
 
 ---
 
 ## 📌 Current Focus
 
 * Building scalable backend systems using Spring Boot
-* Learning System Design and Microservices Architecture
+* Learning Microservices Architecture
 * Improving Data Structures & Algorithms
-* Developing real-world production-level projects
+* Developing production-level projects
 
 ---
 
@@ -75,16 +76,7 @@ I enjoy solving real-world problems and continuously learning new technologies.
 
 ## 1️⃣ Hotel Reservation Backend System
 
-A scalable backend system built using Spring Boot for managing hotel bookings and user authentication.
-
-### Features
-
-* User authentication and authorization
-* Room booking system
-* REST API architecture
-* Database integration
-* Secure login system
-* Booking management
+A scalable backend system built using Spring Boot.
 
 ### Tech Stack
 
@@ -98,103 +90,19 @@ A scalable backend system built using Spring Boot for managing hotel bookings an
 
 ## 2️⃣ TalkMateAI — AI Code Generation Platform
 
-TalkMateAI is an AI-powered platform that allows users to generate, edit, and execute code using natural language prompts.
-The system simulates modern AI development tools similar to platforms like **Cursor, Replit, and ChatGPT**.
+An AI-powered platform that allows users to generate, edit, and execute code using natural language prompts.
+The system simulates modern AI development tools similar to **Cursor, Replit, and ChatGPT**.
 
-This project demonstrates **scalable backend architecture, microservices design, and AI integration** using modern technologies.
-
----
-
-## Key Features
-
-* AI Code Generation using natural language prompts
-* Chat-based coding assistant
-* Project and file management system
-* Code execution in isolated containers
-* Real-time logs streaming
-* User authentication and authorization
-* Multi-user project support
-* Token usage tracking
-* Rate limiting and monitoring
-
----
-
-## System Architecture
-
-The system follows a **microservices architecture**.
-
-### Core Services
-
-* API Gateway — request routing and authentication
-* Intelligence Service — communicates with AI models
-* Workspace Service — manages projects and files
-* Chat Service — handles conversations and history
-* Execution Service — runs generated code
-* Storage Service — stores files and assets
-* Vector Database — supports semantic search (RAG)
-
----
-
-## Technology Stack
-
-### Backend
+### Tech Stack
 
 * Spring Boot
 * Spring Cloud Gateway
 * Microservices Architecture
-* REST APIs
-* JWT Authentication
-
-### Frontend
-
-* React
-
-### Database
-
 * PostgreSQL
-
-### AI Integration
-
-* OpenAI API
-* Prompt Engineering
-* Vector Database (Qdrant)
-
-### Infrastructure
-
 * Docker
 * Kubernetes
-* Object Storage (MinIO)
-
-### Monitoring
-
-* Logging
-* Tracing (Zipkin)
-
----
-
-## Architecture Highlights
-
-* Scalable microservices system
-* Containerized code execution
-* API Gateway pattern
-* AI integration using LLM
-* Secure authentication system
-* Production-ready backend design
-
----
-
-## 📄 Project Documentation
-
-Detailed system design and architecture documentation is available for this project.
-
-Includes:
-
-* System architecture
-* Microservices design
-* Technology stack
-* Development phases
-* Core modules
-* Feature implementation
+* OpenAI API
+* React
 
 ---
 
@@ -210,10 +118,28 @@ LinkedIn:
 
 ## 📊 GitHub Stats
 
-(Add your GitHub stats widgets here)
+<p>
+
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=gitcoder-aman&show_icons=true&locale=en&layout=compact"
+/>
+
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=gitcoder-aman&show_icons=true&locale=en"
+/>
+
+</p>
+
+<p>
+
+<img align="center"
+src="https://github-readme-streak-stats.herokuapp.com/?user=gitcoder-aman"
+/>
+
+</p>
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled **Software Engineer** specializing in **Backend and Android Development**, contributing to high-quality, scalable software systems.
+To become a skilled **Software Engineer** specializing in **Backend and Android Development**, building scalable and production-ready systems.
